@@ -10,3 +10,7 @@ Install required packages using <code>npm install</code> <br/>
  -> Warn you when password is wrong. <br/>
  -> Warn you when email is wrong. <br/>
  -> Show a success message when combination macthes.
+ 
+ # Flowchart
+
+<img src = "https://i.ibb.co/x1cfDgh/Untitled-Diagram-2.jpg" alt ="flowchart" />
