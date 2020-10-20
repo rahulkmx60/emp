@@ -1,0 +1,32 @@
+{
+  "name": "loginpassword",
+  "version": "1.0.0",
+  "description": "A registration and login api demon made with MEN",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Rahul Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulkmx60/loginPassword.git"
+  },
+  "keywords": [
+    "registration",
+    "login",
+    "crud",
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/rahulkmx60/loginPassword/issues"
+  },
+  "homepage": "https://github.com/rahulkmx60/loginPassword#readme"
+}
